@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "My Blog",
+      "body": "This is my blog",
+      "author": "mario"
+    },
+    {
+      "title": "Omar",
+      "body": "kdskdsksdksd",
+      "author": "mario",
+      "id": 3
+    },
+    {
+      "title": "Red Dead Redemption",
+      "body": "Wow",
+      "author": "mario",
+      "id": 4
+    }
+  ]
+}
